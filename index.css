@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: "Inter", serif;
+    background: #1f2937;
+}
+
+#input-container {
+    background: #6943ff;
+    text-align: center;
+    padding: 30px;
+}
+
+#title {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    color: white;
+}
+
+#user-inp {
+    display: block;
+    width: 117px;
+    height: 83px;
+    margin: 30px auto 20px auto;
+    background: none;
+    border: 2px solid #b295ff;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 24px;
+    color: white;
+}
+
+#convert-btn {
+    width: 117px;
+    height: 42px;
+    border: none;
+    border-radius: 5px;
+}
+
+.result-container {
+    background: #273549;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+    border-top-left-radius: 5px;
+    color: white;
+}
+
+.result-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #ccc1ff;
+}
